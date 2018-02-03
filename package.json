@@ -1,6 +1,6 @@
 {
-    "name": "btc-markets",
-    "version": "1.0.3",
+    "name": "btc-market",
+    "version": "1.0.0",
     "description": "BTC Markets API Client for Node.JS",
     "main": "dist/index.js",
     "types": "src/index.d.ts",
@@ -28,8 +28,8 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/naddison36/btc-markets"
+        "url": "https://github.com/andreimc/btc-markets"
     },
-    "author": "Nick Addison",
+    "author": "Andrei Miulescu + Nick Addison",
     "license": "MIT"
 }

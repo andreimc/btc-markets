@@ -48,8 +48,7 @@ And while I'm at it, make sure you enable two-factor authentication. Your accoun
 
 ### Donations
 If you'd like to thank me for this library, you can always donate some of your crypto trading profits to:
-* BTC 13CPGPRf63nVWFkdnJgmvC4K69YGeR4zNn
-* ETH 0x775053A6125cB51e618Eb132f00E93d6033934AD
+* ETH 0x035B04f4bf0022bD1402f482f650BCE03d26FD6c
 
 ### Examples
 The following is from [examples.js](./examples.js)

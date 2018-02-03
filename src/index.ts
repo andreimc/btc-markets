@@ -125,7 +125,7 @@ export default class BTCMarkets
                 else if (data !== Object(data))
                 {
                     // try and parse HTML body form response
-                    const $ = cheerio.load(data);
+                    const $ = cheerio.load(data as any);
 
                     const responseBody = $('body').text();
 
